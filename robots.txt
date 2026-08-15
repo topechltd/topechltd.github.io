@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://topechltd.github.io/topechltd-website/sitemap.xml
+Sitemap: https://topech.top/sitemap.xml
