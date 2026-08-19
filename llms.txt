@@ -1,6 +1,6 @@
-# TOPECH — Precision Data Acquisition Hardware Manufacturer
+﻿# TOPECH — Precision Data Acquisition Hardware Manufacturer
 
-> TOPECH (Chengdu, China, founded 2020) manufactures high-precision data acquisition (DAQ) modules, wireless sensor nodes, and industrial control hardware. Products serve vibration testing, noise measurement, structural health monitoring, and production-line quality control. OEM/ODM services, factory-direct wholesale pricing, worldwide shipping (DHL/FedEx/UPS), 12-month warranty with lifetime technical support. Contact: sales@topechltd.com | WhatsApp: 008617783107268.
+> TOPECH (Chengdu, China, founded 2020) manufactures high-precision data acquisition (DAQ) modules, wireless sensor nodes, and industrial control hardware. Products serve vibration testing, noise measurement, structural health monitoring, and production-line quality control. OEM/ODM services, factory-direct wholesale pricing, worldwide shipping (DHL/FedEx/UPS), 12-month warranty with lifetime technical support. Contact: lranaily@163.com | WhatsApp: 008617783104545.
 
 ## Company Overview
 
@@ -57,8 +57,8 @@
 ## Contact
 
 - Website: https://topech.top/
-- Email: sales@topechltd.com
-- WhatsApp: 008617783107268
+- Email: lranaily@163.com
+- WhatsApp: 008617783104545
 - Address: Tianfu New Area, Chengdu, Sichuan, China
 - Inquiry page: https://topech.top/contact.html
 

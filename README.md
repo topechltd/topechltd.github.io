@@ -1,4 +1,4 @@
-# TOPECH — Precision Measurement & Data Acquisition Solutions
+﻿# TOPECH — Precision Measurement & Data Acquisition Solutions
 
 Official website for TOPECH — specializing in high-precision data acquisition cards, control signal output modules, data transmission modules, and wireless sensor nodes.
 
@@ -43,8 +43,8 @@ Official website for TOPECH — specializing in high-precision data acquisition 
 
 ## Contact
 
-- **Email:** sales@topechltd.com
-- **WhatsApp:** 008617783107268
+- **Email:** lranaily@163.com
+- **WhatsApp:** 008617783104545
 - **Alibaba:** [View Store](https://www.alibaba.com/product-detail/GXA3810-Low-Frequency-Vibration-Data-Acquisition_1601915255462.html)
 - **Address:** Tianfu New Area, Chengdu, Sichuan, China
 
