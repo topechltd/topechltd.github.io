@@ -1,6 +1,6 @@
-﻿# TOPECH — Precision Data Acquisition Hardware Manufacturer
+﻿# TOPECH — Bridge & Tunnel Vibration Monitoring Equipment Manufacturer
 
-> TOPECH (Chengdu, China, founded 2020) manufactures high-precision data acquisition (DAQ) modules, wireless sensor nodes, and industrial control hardware. Products serve vibration testing, noise measurement, structural health monitoring, and production-line quality control. OEM/ODM services, factory-direct wholesale pricing, worldwide shipping (DHL/FedEx/UPS), 12-month warranty with lifetime technical support. Contact: lranaily@163.com | WhatsApp: 008617783104545.
+> TOPECH (Chengdu, China, founded 2020) specializes in bridge and tunnel structural health monitoring (SHM) equipment. Core products include multi-channel 32-bit vibration DAQ cards (GXA3810), high-precision programmable resistors for vibration sensor calibration (GXR0115/GXR0101), and multi-interface data transfer modules for remote monitoring (GXE5010). OEM/ODM services, factory-direct wholesale pricing, worldwide shipping (DHL/FedEx/UPS), 12-month warranty with lifetime technical support. Contact: lranaily@163.com | WhatsApp: 008617783104545.
 
 ## Company Overview
 
@@ -8,25 +8,29 @@
 - **Founded**: 2020
 - **Location**: Tianfu New Area, Chengdu, Sichuan, China
 - **Business type**: Manufacturer (factory-direct sales, OEM/ODM supported)
-- **Core technologies**: 24-bit / 32-bit ADC data acquisition, UWB wireless transmission, IEPE sensor power supply, WinUSB connectivity
+- **Core technologies**: 32-bit ADC bridge vibration data acquisition, programmable resistor sensor calibration, multi-interface remote monitoring data conversion
+- **Primary applications**: Bridge structural health monitoring, tunnel vibration detection, SHM sensor calibration, remote vibration monitoring systems
 - **Sales channels**: Direct (topech.top), Alibaba store
 - **Order terms**: No strict MOQ; sample orders ship in 3–5 business days; bulk lead time 1–3 weeks
 
 ## Product Catalog
 
-### Data Acquisition Modules
+### Bridge & Tunnel Vibration DAQ
 
-- [GXA5104 — 4-Channel 24-bit 51.2kHz Wireless DAQ Module](https://topech.top/gxa5104.html): 4 channels, 24-bit ADC, up to 51.2 kHz sampling, USB/UWB transmission, IEPE sensor power (4 mA/28 V), ≥120 dB dynamic range, full SDK (Windows/Linux). Best for vibration testing, noise measurement, mechanical fault diagnosis.
-- [GXA3801 — High-Precision 32-bit 38.4kHz DAQ Module](https://topech.top/gxa3801.html): 32-bit ADC, 5 Hz–38.4 kHz, coupling modes: single-ended / differential / AC / DC / IEPE, 1 MΩ input impedance, CAN/UART/PWM digital port. Best for ultra-precision vibration and acoustic measurement.
-- [GXA3810 — 10-Channel 32-bit 400Hz Multi-Point DAQ Module](https://topech.top/gxa3810.html): 10 synchronous channels, 32-bit ADC, 400 Hz, ±5 V input range. Best for multi-point vibration, pressure, and strain monitoring.
+- [GXA3810 — 10-Channel 32-bit 400Hz Bridge Vibration DAQ Card](https://topech.top/gxa3810.html): Purpose-built for bridge and tunnel structural health monitoring (SHM). 10 synchronous channels, 32-bit ADC, 400 Hz, SE/differential/AC/DC coupling, full SDK (Windows/Linux). Optimized for low-frequency vibration measurement in bridge inspection.
 
 ### Wireless Sensor Nodes
 
 - [GXN2703 — 3-Axis Wireless Vibration Sensor Node](https://topech.top/gxn2703.html): 3-axis accelerometer, UWB wireless, 200 mAh battery, magnetic mount + M4 thread, IP-X8 waterproof, 30×30×34 mm. Best for wireless condition monitoring of rotating machinery.
 
-### Control & Calibration Instruments
+### Programmable Resistors for Sensor Calibration
 
-- [GXR0115 — Programmable Resistor 1Ω–15MΩ 0.01%](https://topech.top/gxr0115.html): Resistance range 1 Ω–15 MΩ, 2 mΩ minimum step, 0.01% accuracy (100 Ω–1 MΩ range), magnetic latching relays retain value after power-off. Best for sensor calibration and resistance simulation.
+- [GXR0115 — Programmable Resistor 1Ω–15MΩ 0.01%](https://topech.top/gxr0115.html): For vibration sensor calibration in bridge/tunnel SHM systems. 1 Ω–15 MΩ, 0.01% accuracy, magnetic latching relays retain value after power-off. Pairs with GXE5010 for remote calibration.
+- [GXR0101 — High-Precision Programmable Resistor 1Ω–1MΩ ±1Ω](https://topech.top/gxr0101.html): Compact sensor calibration resistor, ±1Ω accuracy (1Ω–1KΩ), ±0.01% (1KΩ–1MΩ), gold-plated banana connectors. Pairs with GXE5010 for remote control.
+
+### Remote Monitoring Data Transfer
+
+- [GXE5010 — Multi-Interface Data Transfer Module for Remote Monitoring](https://topech.top/gxe5010.html): Enables remote control of GXR programmable resistors via Ethernet in bridge/tunnel SHM systems. ETH, USB COM, USB HOST, UART, RS485, CAN bidirectional conversion. 63×50×21 mm, 100mA max.
 
 ### Expansion Boards & Modules
 
@@ -37,13 +41,12 @@
 
 ## Applications
 
+- Bridge structural health monitoring (SHM) — vibration data acquisition and sensor calibration
+- Tunnel vibration detection and monitoring
+- Remote sensor calibration for SHM systems (programmable resistor + data transfer module)
 - Vibration testing & modal analysis
-- Noise & NVH measurement
-- Strain & pressure measurement
-- Structural health monitoring (SHM)
 - Machine condition monitoring
 - Industrial production-line monitoring
-- Laboratory precision measurement
 
 ## Buying Information
 
