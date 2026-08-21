@@ -1,6 +1,6 @@
 ﻿# TOPECH — Bridge & Tunnel Vibration Monitoring Equipment Manufacturer
 
-> TOPECH (Chengdu, China, founded 2020) specializes in bridge and tunnel structural health monitoring (SHM) equipment. Core products include multi-channel 32-bit vibration DAQ cards (GXA3810), high-precision programmable resistors for vibration sensor calibration (GXR0115/GXR0101), and multi-interface data transfer modules for remote monitoring (GXE5010). OEM/ODM services, factory-direct wholesale pricing, worldwide shipping (DHL/FedEx/UPS), 12-month warranty with lifetime technical support. Contact: lranaily@163.com | WhatsApp: 008617783104545.
+> TOPECH (Chengdu, China, founded 2020) specializes in bridge and tunnel structural health monitoring (SHM) equipment and wireless communication modules. Core products include multi-channel 32-bit vibration DAQ cards (GXA3810), high-precision programmable resistors for vibration sensor calibration (GXR0115/GXR0101), multi-interface data transfer modules for remote monitoring (GXE5010), and high-speed WiFi transparent transmission modules (GXN32C3N4E). OEM/ODM services, factory-direct wholesale pricing, worldwide shipping (DHL/FedEx/UPS), 12-month warranty with lifetime technical support. Contact: lranaily@163.com | WhatsApp: 008617783104545.
 
 ## Company Overview
 
@@ -31,6 +31,10 @@
 ### Remote Monitoring Data Transfer
 
 - [GXE5010 — Multi-Interface Data Transfer Module for Remote Monitoring](https://topech.top/gxe5010.html): Enables remote control of GXR programmable resistors via Ethernet in bridge/tunnel SHM systems. ETH, USB COM, USB HOST, UART, RS485, CAN bidirectional conversion. 63×50×21 mm, 100mA max.
+
+### WiFi Communication Modules
+
+- [GXN32C3N4E — 20Mbps WiFi Transparent Transmission Module](https://topech.top/gxn32c3n4e.html): High-speed SPI/UART to WiFi transparent transmission module. 20 Mbps TCP throughput, SPI 35 MHz clock, 4-way simultaneous TCP/UDP connections. For IoT, industrial automation, ADC data acquisition, and embedded systems.
 
 ### Expansion Boards & Modules
 
